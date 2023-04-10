@@ -51,6 +51,7 @@ if (!isset($planTextList[$plan])) {
                         <li class="nav-item"><a class="nav-link" href="./index.php#plans">選べるプラン</a></li>
                         <li class="nav-item"><a class="nav-link" href="./index.php#clientVoice">お客様の声</a></li>
                         <li class="nav-item"><a class="nav-link" href="./index.php#contact">お問い合わせ</a></li>
+                        <li class="nav-item"><a class="nav-link link-primary" href="https://github.com/htpvdev/sonic-moving-center" target="_blank" rel="noopener noreferrer">ソースコード</a></li>
                     </ul>
                 </div>
             </div>
@@ -171,7 +172,7 @@ if (!isset($planTextList[$plan])) {
 
         <!-- Footer-->
         <footer class="py-5 bg-dark">
-            <div class="container px-5"><p class="m-0 text-center text-white"> &copy; 2023 - Sonic Movement, Inc. All Rights Reserved.</p></div>
+            <div class="container px-5"><p class="m-0 text-center text-white"> &copy; 2023 - Sonic Moving Center. All Rights Reserved.</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
